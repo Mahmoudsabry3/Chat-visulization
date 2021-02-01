@@ -1,2 +1,2 @@
-# Chat-visulizationhis 
-building the common word in WhatsApp conversation by using WhatsApp exported chat 
+# Chat-visulizationhis
+Extracting the common words in WhatsApp conversation by using WhatsApp exported chat and word cloud
